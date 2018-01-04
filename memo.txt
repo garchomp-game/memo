@@ -1,0 +1,19 @@
+atomとmysqlのパスの追加方法
+
+atomの場合
+ユーザーフォルダの中の.atomのパスをコピーし、pathに追加
+mysqlの場合
+スタートボタンからの検索でmysql.exeの場所をコピーし、pathに追加
+
+以上でterminalでatom mysqlが使える
+なおmysqlは別途起動しておく必要がある。
+xamppのmysqlとは
+
+
+mysqlをスタートする場合は
+mysql.server start
+あるいは
+/etc/init.d/mysqld start
+または
+service mysqld start
+でも行ける
