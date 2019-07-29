@@ -1,19 +1,7 @@
-atomとmysqlのパスの追加方法
+自宅でコマンドで投稿するだけで管理できるメモツールを作る
+一覧をみてそれを削除できるメモツール。
 
-atomの場合
-ユーザーフォルダの中の.atomのパスをコピーし、pathに追加
-mysqlの場合
-スタートボタンからの検索でmysql.exeの場所をコピーし、pathに追加
+基本的にtypescriptで実装したい（laravelでもできるけど今後を考えて)
+typescriptと相性のいいフレームワークを今のうちに探しておく。
 
-以上でterminalでatom mysqlが使える
-なおmysqlは別途起動しておく必要がある。
-xamppのmysqlとは
-
-
-mysqlをスタートする場合は
-mysql.server start
-あるいは
-/etc/init.d/mysqld start
-または
-service mysqld start
-でも行ける
+reactチュートリアルをしっかりやって、reactの基礎概念や設計思想を理解する。
