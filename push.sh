@@ -1,4 +1,4 @@
 git add .
 git commit -m 'memo push'
-git push origin master &
+git push origin master
 clear
